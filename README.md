@@ -1,10 +1,10 @@
 
 
-### Bem vindo(a), sou Tiago Barbosa 👋
+### Welcome, I am Tiago Barbosa 👋
 
-- :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando Javascript, html, css .
-- :dart: Estou em busca de uma oportunidade de estágio.
+- :mortar_board: Studant of Análise e Desenvolvimento de Sistemas.
+- 🌱 Currently I am studying Javascript, html, css .
+- :dart: I am looking for an internship opportunity.
 
 <div align="center">
   <a href="https://github.com/TiagoBarbosa88">
