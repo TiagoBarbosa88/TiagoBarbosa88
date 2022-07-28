@@ -3,7 +3,7 @@
 ### Welcome, I am Tiago Barbosa 👋
 
 - :mortar_board: Studant of Analysis and systems development.
-- 🌱 Currently I am studying Javascript, html, css, Bootstrap .
+- Currently I am studying Javascript, html, css, Bootstrap .
 - :dart: I am looking for an internship opportunity.
 
 <div align="center">
