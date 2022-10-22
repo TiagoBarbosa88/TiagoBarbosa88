@@ -1,6 +1,6 @@
 
 
-### Welcome, I am Tiago Barbosa        
+### Welcome, I am Tiago Barbosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >        
 
 - :mortar_board: Studant of Analysis and systems development.
 - Currently I am studying Javascript, html, css, Bootstrap .
