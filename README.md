@@ -2,11 +2,10 @@
   <h1>
      Hi, My name is <a href="https://www.linkedin.com/in/tiagolimabarbosa/">Tiago Barbosa</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   </h1>
-</div><br><br>
-
-- :mortar_board: Studant of Analysis and systems development.
-- Currently I am studying Javascript, html, css, Bootstrap .
-- :dart: I am looking for an internship opportunity.
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=13BEC8&width=435&lines=Student+of+Analysis+and+systems+development;Currently+I+am+studying+Javascript%2C+html%2C+css%2C+Bootstrap;I+am+looking+for+an+internship+opportunity." alt="Typing SVG" /></a>
+  </div>
 
 <div align="center">
   <div align='center'>
