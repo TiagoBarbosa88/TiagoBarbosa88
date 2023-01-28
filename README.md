@@ -10,11 +10,8 @@
 <div align="center">
   <div align='center'>
   <img height="190px" width="470px" src="https://github-readme-stats.vercel.app/api?username=tiagobarbosa88&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="left" width="300px" height=400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobarbosa88&langs_count=8&theme=react&hide_border=true">
-</div>
-  
-  <div align = "center">
-  
+  <img align="left" width="280px" height=400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobarbosa88&langs_count=8&theme=react&hide_border=true">
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiagobarbosa88&theme=react)](https://git.io/streak-stats)
   
