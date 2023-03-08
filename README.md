@@ -8,12 +8,11 @@
  </div>
 
 <div align="center">
-  <div align='center'>
-  <img height="190px" width="470px" src="https://github-readme-stats.vercel.app/api?username=tiagobarbosa88&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="left" width="280px" height=400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobarbosa88&langs_count=8&theme=react&hide_border=true">
-
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiagobarbosa88&theme=react)](https://git.io/streak-stats)
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/TiagoBarbosa88">
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=TiagoBarbosa88&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBarbosa88&layout=compact&langs_count=7&theme=react"/></a>
+</div> 
   
 </div>
 </div>
@@ -39,7 +38,10 @@
   
   ## Social networks:
   <div>
-<a align="center" href = "mailto:sombr43@gmail.com"><img width="40" height="40"  src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"></a>       <a href="https://www.linkedin.com/in/tiagolimabarbosa/" target="_blank"><img width="40" height="40" src="https://user-images.githubusercontent.com/93397497/173881361-44ebc3a1-211a-4550-a44a-73a7438bd1b7.png" target="_blank"></a>   <a href="#" target="_blank"><img width="40" height="40" src="https://user-images.githubusercontent.com/93397497/173899426-9a6e8a5c-06db-4507-a3d7-eec6e64eaf35.png" target="_blank"></a>     
+ 
+ [![Linkedin: Tiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagolimabarbosa/)](https://www.linkedin.com/in/tiagolimabarbosa/) 
+[![Gmail: Tiago](https://img.shields.io/badge/Gmail-D14836?style=style=flat-square&logo=gmail&logoColor=white&link=mailto:tiagobarbosa.dev@gmail.com)](mailto:tiagobarbosa.dev@gmail.com/)
+[![Portfólio: Tiago](https://img.shields.io/badge/-Portfólio-critical?style=style=flat-square&logo=porfólio&logoColor=white&link=https://tiago-barbosa.vercel.app/)](https://tiago-barbosa.vercel.app/)
        
 
  </div>
