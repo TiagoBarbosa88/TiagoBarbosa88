@@ -4,7 +4,7 @@
   </h1>
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=350&color=13BEC8&width=450&lines=Student+of+Analysis+and+Systems+Development.;Currently,+i'm+learning+Javascript%2C+NodeJs ;+Angular,+React,+and+Angular+Material.;+I'm+looking+for+an+internship+opportunity." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=350&color=13BEC8&width=450&lines=Student+of+Software+Engineering;+Currently,+I'm+learning+Cloud Computing;+AWS+,+Azure,+Terraform+and;+Infrastructure+as+Code+(IAC).;+Currently,+i'm+Internship+of+Public+Cloud" alt="Typing SVG" /></a>
  </div>
 
 <div align="center">
