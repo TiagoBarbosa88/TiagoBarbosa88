@@ -3,9 +3,6 @@
      Hi, my name is <a href="https://www.linkedin.com/in/tiagolimabarbosa/">Tiago Barbosa</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   </h1>
 </div>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=350&color=13BEC8&width=450&lines=Student+of+Software+Engineering;+Currently,+I'm+learning+Cloud Computing;+AWS+,+Azure,+Terraform+and;+Infrastructure+as+Code+(IAC).;+Currently,+i'm+Internship+of+Public+Cloud" alt="Typing SVG" /></a>
- </div>
 
 <div align="center">
 <div align="center" style="display: inline_block">
